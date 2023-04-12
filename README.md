@@ -4,7 +4,7 @@ Issabel for Docker in centos 7  (development - not production)
 
 <h2>Create a network for your docker</h2>
 
-<pre><code>$ create docker network issabel
+<pre><code>$ docker network create issabel
 </code></pre>
 It's recommend to create a new docker network.
 
