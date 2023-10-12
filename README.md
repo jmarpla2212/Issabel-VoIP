@@ -1,4 +1,4 @@
-<h1> Issabel PBX - Juanchu</h1>
+<h1> Issabel PBX - Juan M</h1>
 
 Issabel for Docker in centos 7  (development - not production)
 
